@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/andrasnemeth02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andrasnemeth02" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/andras-nemeth-andnem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andras-nemeth-andnem" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@and_the_nem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@and_the_nem" height="30" width="40" /></a>
+<a href="https://twitter.com/andrasnemeth02" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andrasnemeth02" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/andras-nemeth-andnem" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andras-nemeth-andnem" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@and_the_nem" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@and_the_nem" height="30" width="40" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrsushi22&label=Profile%20views&color=3dbd68&style=flat" alt="mrsushi22" /> </p>
