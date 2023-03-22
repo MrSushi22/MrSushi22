@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm András</h1>
-<h3 align="center">A frontend developer from Hungary. Based in Denmark 📍</h3>
+<h3 align="center">A front-end developer from Hungary. Based in Denmark 📍</h3>
 
 - 🤖 I’m currently working on my portfolio website [andnem](https://andnem.com/)
 
